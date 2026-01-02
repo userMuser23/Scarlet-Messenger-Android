@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="scarlet_primary">#E01E37</color>
+    <color name="scarlet_dark">#A80016</color>
+
+    <color name="scarlet_container">#FFD9DE</color>
+    <color name="on_scarlet_container">#40000A</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#1C1B1F</color> <color name="background_light">#F8F9FA</color> <color name="white_text">#FFFFFF</color>
+</resources>

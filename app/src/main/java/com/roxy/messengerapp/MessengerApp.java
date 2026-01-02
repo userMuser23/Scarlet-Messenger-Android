@@ -1,0 +1,1 @@
+package com.roxy.messengerapp;import android.app.Application;import com.google.firebase.database.FirebaseDatabase;public class MessengerApp extends Application {    @Override    public void onCreate() {        super.onCreate();        // Эта одна строчка делает магию        FirebaseDatabase.getInstance().setPersistenceEnabled(true);    }}
